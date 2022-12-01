@@ -18,6 +18,7 @@ var Questions =
     //q (question) + number
     q1:
     {
+        image:"https://cdn.discordapp.com/attachments/968168285554212914/1047670214021627936/unknown.png",
         text: " Em relação às macromoléculas que constituem a maioria dos seres vivos, é correto afirmar que :", //the question itself
         opt1: " os lipídeos e os peptideoglicanos compõem a membrana plasmática de todos os eucariotos. ", //option 1
         opt2: "os ácidos nucleicos, DNA e RNA, são formados por várias unidades chamadas de nucleotídeos", //option 2
@@ -27,16 +28,17 @@ var Questions =
     },
     q2:
     {
-        image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Parc_Asterix_20.jpg", //url of demonstrative image
-        text: "Tubar&otilde;es e golfinhos possuem suas semelhan&ccedil;as devido ao processo de", //the question itself
-        opt1: "Alto Grau de Parentesco", //option 1
-        opt2: "Mimetismo", //option 2
-        opt3: "Homologia", //option 3
-        opt4: "Converg&ecirc;ncia Adaptativa", //option 4
-        rightOpt: 4 //right option
+        image:"https://cdn.discordapp.com/attachments/968168285554212914/1047676377027063948/unknown.png",
+        text: "A molécula de DNA possui dois filamentos de polinucleotídios ligados entre as bases nitrogenadas formados por uma dupla hélice. Qual das alternativas corresponde a um pareamento proprio da base que tem como sequência CAACTCGTA", //the question itself
+        opt1: "GTTATGCAT", //option 1
+        opt2: "GAAGAGCTA", //option 2
+        opt3: "CTTGAGCAT", //option 3
+        opt4: "ATTGAGCAT", //option 4
+        rightOpt: 3 //right option
     },
     q3:
     {
+        image:"https://cdn.discordapp.com/attachments/968168285554212914/1047670863362797678/unknown.png",
         text: "Assinale as afirmações sobre o processo de transcrição e replicação de DNA, e o processo de tradução do DNA, marque a alternativa que corresponde as afirmações abaixo", //the question itself
         text: "I- Nos processos de replicação e transcrição as principais enzimas envolvidas são a RNA polimerase e a DNA polimerase, respectivamente",
         text: "II- O processo de tradução ocorre no citoplasma",
@@ -46,9 +48,10 @@ var Questions =
         opt3: "Apenas I, II e III estão corretas", //option 3
         opt4: "Apenas a II e III estão corretas", //option 4
         rightOpt: 1 //right option
-    },  
+    }, 
     q4:
     {
+        image:"https://cdn.discordapp.com/attachments/968168285554212914/1047671904095440976/unknown.png",
         text: "como resultado de uma mutação hipotética em uma molécula de RNA mensageiro, podemos esperar que ocorra mudanças, à exceção de alterações", //option 1
         opt1: "Na tradução dessa molécula de RNA. Na transcrição reversa desse RNA para DNA.",
         opt2: "Moleculares em proteínas estruturais originadas desses RNA. ", //option 2
@@ -58,6 +61,7 @@ var Questions =
     },
     q5:
     {
+        image:"https://cdn.discordapp.com/attachments/968168285554212914/1047671199846629506/unknown.png",
         text: "Sabemos que as proteínas, substâncias essenciais para o funcionamento do corpo, são um conjunto de aminoácidos que estão ligados entre si por ligações peptídicas. Quando nos falamos sobre o termo código genético, nos referimos a:", //the question itself
         opt1: "À síntese de RNA a partir de uma das cadeias do DNA, que serve de modelo", //option 1
         opt2: "Ao conjunto de proteínas sintetizadas a partir de uma sequência especifica de RNA .", //option 2
@@ -67,6 +71,7 @@ var Questions =
     },
     q6:
     {
+        image:"https://cdn.discordapp.com/attachments/968168285554212914/1047670863362797678/unknown.png",
         text: "Uma molécula de DNA, com sequência de bases GCATGGTCATAC, permite a formação de um RNA mensageiro, a sequência que correspode a essa base será:", //the question itself
         opt1: "GCUAGGACUATU", //option 1
         opt2: "CGUACCAGUAUG", //option 2
@@ -76,6 +81,7 @@ var Questions =
     },
     q7:
     {
+        image:"https://cdn.discordapp.com/attachments/968168285554212914/1047677184334110730/unknown.png",
         text: "Sobre a molécula RNA/DNA, marque a alternativa que descreve a sua estrutura: ", //the question itself
         opt1: "Um nucleotídeo de RNA é formado por uma molécula de ácido fosfórico, uma molécula de açúcar, que é a desoxirribose, e uma base nitrogenada. ", //option 1
         opt2: "O RNA é uma molécula grande, formada de nucleotídeos e com os mesmos constituintes fundamentais do DNA. ", //option 2
@@ -85,6 +91,7 @@ var Questions =
     },
     q8:
     {
+        image:"https://cdn.discordapp.com/attachments/968168285554212914/1047675542184407101/unknown.png",
         text: "A trinca de bases encontrado em um RNA mensageiro recebe o nome de:", //the question itself
         opt1: "Proteína.", //option 1
         opt2: "Códon.", //option 2
@@ -94,16 +101,17 @@ var Questions =
     },
     q9:
     {
-        image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Juancito.jpg", //url of demonstrative image
-        text: "A exist&ecirc;ncia de novas esp&eacute;cies, dentre as op&ccedil;&otilde;es, podem originar de: ", //the question itself
-        opt1: "Cruzamentos entre seres de mesma fam&iacute;lia.", //option 1
-        opt2: "Cruzamentos entre seres de esp&eacute;cies diferentes, dando origem a animais h&iacute;bridos e est&eacute;reis, como o Canis lupus familiaris.", //option 2
-        opt3: "Cruzamentos entre seres de esp&eacute;cies diferentes, dando origem a animais h&iacute;bridos e est&eacute;reis, como o Equus africanus (asno).", //option 3
-        opt4: "Cruzamentos entre seres de filos diferentes, dando origem a seres h&iacute;bridos e est&eacute;reis, como o Homo Musca domestica.", //option 4
+        image:"https://cdn.discordapp.com/attachments/968168285554212914/1047677429780598864/unknown.png",
+        text: "Quando falamos que o aminoácido poderá ser codificado por diferentes trincas, nos referindo a uma característica do código genético. Que características é essa?", //the question itself
+        opt1: "Especificada.", //option 1
+        opt2: "igualdade." ,//option 2
+        opt3: "redundância", //option 3
+        opt4: "desigualdade", //option 4
         rightOpt: 3 //right option
     },
     q10:
     {
+        image:"https://cdn.discordapp.com/attachments/968168285554212914/1047677429780598864/unknown.png",
         text: "Vários aminoácidos podem ser codificados por diversas trincas de nucleotideos, pela sintese de proteínas intracelular, por isso, que o código genético:", //the question itself
         opt1: "não se relaciona com os genes.", //option 1
         opt2: "não pode ser entendido.", //option 2
